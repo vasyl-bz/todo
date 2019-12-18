@@ -1,8 +1,8 @@
 {
-  "homepage": "https://vasulko.github.io/todo",
   "name": "todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vasulko.github.io/todo/",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
@@ -31,5 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
