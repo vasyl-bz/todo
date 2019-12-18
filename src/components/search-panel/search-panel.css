@@ -1,0 +1,9 @@
+.search-panel {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+}
+
+.form-control {
+    margin-right: 5px;
+}
